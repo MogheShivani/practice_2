@@ -1,0 +1,1 @@
+{"HVACUsage": {"On": 0, "Off": 1}, "Urban/Rural": {"Urban": 1, "Rural": 0}, "columns": ["Temperature", "HVACUsage", "Urban_Rural", "Devices_Count"]}
